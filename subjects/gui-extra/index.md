@@ -797,3 +797,5 @@ In the example above we first create the Tab control using the class `TabPane`, 
 The context of each tab page is set using the method `setContent`. The content can be a single UI control or a layout manager with multiple controls.
 
 
+{% include_relative exercises/004.md %}
+{: .exercises }
