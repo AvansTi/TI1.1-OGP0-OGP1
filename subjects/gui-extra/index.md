@@ -795,3 +795,8 @@ The following code is used to create the example above:
 In the example above we first create the Tab control using the class `TabPane`, after that we create three tabpages using the class `Tab` and add all the tabs to the tab control, using the code `tabpane.getTabs().addAll(universityTab, workTab, privateTab);`.
 
 The context of each tab page is set using the method `setContent`. The content can be a single UI control or a layout manager with multiple controls.
+
+
+
+{% include_relative exercises/004.md %}
+{: .exercises }
