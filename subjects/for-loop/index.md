@@ -31,5 +31,4 @@ for(int i = 0; i < 10; i++) {
 This program is identical to the while loop. The for has all 3 different components between brackets, and is therefore different than the while() or if() conditions. This `for`-syntax is very powerful, but can some time getting used to. For now, you can pick if you do loops with a while() statement or a for() statement
 
 
-{% include_relative exercises/001.md %}
 {: .exercises }
