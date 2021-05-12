@@ -9,4 +9,7 @@ Translators to English: Emilia Hjelm, Alex H. Virtanen, Matti Luukkainen, Virpi 
 Extra material added by: Etiënne Goossens, Maurice Snoeren, Johan Talboom
 
 The course is maintained by [Technische Informatica Breda](http://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/introductie)
+
+---
+
 </div>

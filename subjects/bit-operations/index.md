@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Bit operators
 
 So far we've been calculating with numbers using the `+`, `-`, `/`, `%` and `*` operators. These operations match with the normal math that we're used to. For computer programming however, there are also some other operations that operate on a bit level.
