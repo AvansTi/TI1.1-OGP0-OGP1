@@ -330,6 +330,18 @@
     <script>
       $(function()
       {
+        if(location.href.indexOf("?") > -1)
+        {
+          var params = location.href.substr(location.href.indexOf("?")+1);
+          if(params == "noheader")
+          {
+            $(".nav").hide();
+            $("#nav").hide();
+          }
+
+
+        }
+
         //make exercise clickable
         $("blockquote.exercise h3").click(function(){
           var id = $(this).attr("id");

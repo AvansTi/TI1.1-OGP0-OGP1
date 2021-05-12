@@ -1,3 +1,4 @@
+<div id="licence" markdown="1">
 # Object-Oriented Programming with Java, part I + II
 
 [![cc](http://i.creativecommons.org/l/by-nc-sa/2.0/88x31.png?right)](http://creativecommons.org/licenses/by-nc-sa/2.0/)
@@ -8,3 +9,4 @@ Translators to English: Emilia Hjelm, Alex H. Virtanen, Matti Luukkainen, Virpi 
 Extra material added by: Etiënne Goossens, Maurice Snoeren, Johan Talboom
 
 The course is maintained by [Technische Informatica Breda](http://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/introductie)
+</div>
