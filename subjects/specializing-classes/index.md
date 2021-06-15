@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Extending Classes
 
 In java it's possible to extend classes to add functionality. By extending a class, you take over all the attributes, methods and constructors of the other class. By reusing the class in the other class, you only have to write this code once, and can reuse it in other classes, as if it were part of that class. An example could be classes about animals.

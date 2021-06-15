@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Callstack
 
 When methods call each other, they form what is called a *calls stack*. This is a list of methods, where each method has been called by the entry over it in the list. The call stack in IntelliJ is shown when the application is paused in the debugger. Concider the following program

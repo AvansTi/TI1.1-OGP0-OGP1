@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Exceptions
 
 Exceptions are such situations where the program executions is different from our expectations. For instance, the program may have called a method of a *null*  reference, in which case the user is thrown a `NullPointerException`. If we try to retrieve a index outside a table, the user is *thrown* a `IndexOutOfBoundsException`. All of them are a type of `Exception`.

@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: Variable naming, more examples of complete files, curly brace position
 ---
 {% include licence.md %}
----
+
 ### Code indentation
 
 Note that the commands in the block following the if statement (i.e. the lines after the curly brace, { ) are not written at the same level as the if statement itself. They should be **indented** slightly to the right. Indentation happens when you press the tab key, which is located to the left of q key. When the block ends with the closing curly brace, indentation ends as well. The closing curly brace } should be on the same level as the original `if` statement.

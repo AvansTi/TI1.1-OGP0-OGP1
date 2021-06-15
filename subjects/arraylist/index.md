@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Objects and Values
 
 Strings and integers have some differences. Integers are "just values", they can be used in calculations and they can be printed on the screen:

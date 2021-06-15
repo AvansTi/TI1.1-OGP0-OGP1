@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Instructions on code-writing and problem solving
 
 Two of the leading software developers, *Martin Fowler* and *Kent Beck* have said in the book *Refactoring: Improving the Design of Existing Code* that:

@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Assignment operations
 
 Because changing the value of a variable is a very common operation, Java has special assignment operations for it.

@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ### Return values
 
 A method can return a value. In the examples above, methods have not been returning anything. This is expressed by writing `void` in the first line of the method, just before it's name.

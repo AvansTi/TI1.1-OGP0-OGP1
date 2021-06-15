@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Strings of characters
 
 In this section, we take a closer look at strings of characters in Java, which are called `Strings`. We have already used variables of String type when printing, and learned how to compare Strings. Comparing two strings is performed by calling the equals() method of the string.

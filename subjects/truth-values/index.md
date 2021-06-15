@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Using truth values
 A variable of type truth value (`boolean`) can only have two values: either `true` or `false`). Here is an example on how to use boolean variables:
 

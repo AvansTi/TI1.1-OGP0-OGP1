@@ -5,7 +5,7 @@ meta:
 todo: merge with more information on constructors
 ---
 {% include licence.md %}
----
+
 ## Multiple constructors
 
 Let us return to the class that handles Persons again. The class `Person` currently looks like this:

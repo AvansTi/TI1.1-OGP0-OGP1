@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Array
 
 During the course, we've used ArrayLists numerous times to store different kinds of objects. ArrayList is easy to use because it offers a lot of ready-made tools that make the programmer's life a little easier: automatic growing of a list, thanks to the list which doesn't run out of space (unless of course the list grows so large that it makes the program take up all the memory that is reserved for it), for example.

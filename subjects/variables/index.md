@@ -4,7 +4,7 @@ title: Compiler, Setup and Printing
 meta: Put extra info here, like if there any subjects required for this subject
 ---
 {% include licence.md %}
----
+
 ## Variables and assignment
 
 ### Variables and data types

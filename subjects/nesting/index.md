@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## About blocks and nested loops
 
 A piece of code that begins with a curly bracket { and ends with a curly bracket } is called a block. As we've already seen, blocks are used - among other things - to denote the code of conditional and loop sentences. An important feature of a block is that variables defined within it only exist within it..

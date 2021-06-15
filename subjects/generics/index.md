@@ -5,7 +5,6 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
 
 ## Generics
 

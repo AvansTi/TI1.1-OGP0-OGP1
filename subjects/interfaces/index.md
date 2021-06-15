@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Interfaces
 
 `Interface` is an instrument we have to define the functionality our classes should have. Interfaces are defined as normal Java classes, but instead of the definition "`public class` ...", we write "`public interface` ...". The interfaces influence class behaviour by defining the method names and return values, but they *do* **not** *contain method implementation*. The access modifier is not specified, because it is always `public`. Let us have a look at the interface `Readable`, which defines whether an object can be read.

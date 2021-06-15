@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ### Object is at the end of a wire
 
 In chapter 20, we noted that `ArrayList` is at the end of a wire. Also objects are 'at the end of a wire'. What does this mean? Let us inspect the following example:

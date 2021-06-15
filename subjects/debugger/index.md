@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Debugging using a debugger
 
 To see the contents of variables so far, we've been using the `System.out.println()` command. This works fine for showing the contents of simple variables, or the flow of execution in a simple program, but when programs get more complicated, the output will also get more complicated. This is why there are other tools available to debug your program, a debugger.

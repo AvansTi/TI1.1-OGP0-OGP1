@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Access Modifiers
 
 When extending a class, it is possible to use the public methods and attributes of the superclass. It is however, not possible to access the private methods and attributes. Sometimes it is needed to access those methods from a subclass, but not from other classes. We can use the `protected` keyword to access these methods and attributes

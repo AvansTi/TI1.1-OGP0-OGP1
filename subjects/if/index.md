@@ -4,7 +4,7 @@ title: If statement
 meta: Put extra info here, like if there any subjects required for this subject
 ---
 {% include licence.md %}
----
+
 ## Conditional statements and truth values
 
 So far, our programs have progressed from one command to another in a straightforward manner. In order for the program to *branch* to different execution paths based on e.g. user input, we need conditional statements.

@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Object-oriented programming
 
 Before we begin, here is a small introduction to object-oriented programming.

@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## About arrays and objects
 If need be, any type of object can be put into an array. In the following, an example of an array into which will be put Person objects:
 

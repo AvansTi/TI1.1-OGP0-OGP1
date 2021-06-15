@@ -5,7 +5,7 @@ meta:
 todo: 
 ---
 {% include licence.md %}
----
+
 ## Methods
 
 We have so far used many different commands of Java: assignment, calculations, comparison, if structures and while structures. We have been using a "command" `System.out.println()` to print text. We can also count the maximum of two numbers with the help of the "command" `Math.max()`. We are also familiar with `reader.nextLine()`, usually seen together with `Integer.parseInt()`.

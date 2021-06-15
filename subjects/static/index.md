@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## To static or not to static?
 
 When we started using objects, the material advised to leave out the keyword 'static' when defining their methods. However, up until week 3 all of the methods included that keyword. So what is it all about?

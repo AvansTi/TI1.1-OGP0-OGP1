@@ -4,7 +4,7 @@ title: User input
 meta: Put extra info here, like if there any subjects required for this subject
 ---
 {% include licence.md %}
----
+
 ## Reading User Input
 
 So far our programs have been rather one-sided. Next we will learn how to read *input* from the user. We will use a special `Scanner` tool to read the user input.

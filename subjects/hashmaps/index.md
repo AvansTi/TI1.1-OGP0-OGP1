@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## HashMaps
 
 [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) is one of Java's most useful data structures. The idea behind `HashMap` is we define an index for an object key - a unique value, for instance a social security number, a student number, or a phone number. We call *hashing* the process of changing a key into an index, or simply to define an index. The hashing happens thanks to a particular function which makes sure that we get always the same index with a known key.

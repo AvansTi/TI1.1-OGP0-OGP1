@@ -5,7 +5,7 @@ meta: Put extra info here, like if there any subjects required for this subject
 todo: what should be improved in this chapter
 ---
 {% include licence.md %}
----
+
 ## Abstract classes
 
 In Exercise overwriting-methods-2 there's a problem though. It is possible to execute the following code
