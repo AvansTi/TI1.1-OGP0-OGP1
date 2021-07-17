@@ -320,7 +320,7 @@ Even though the `HashMap` contains `Integer` objects, Java can also translate ce
 
 ```java
 public int lastTwitch(String name) {
-    if(this.twitched.containsKey(name) {
+    if(this.twitched.containsKey(name)) {
         return this.twitched.get(name);
     }
 
